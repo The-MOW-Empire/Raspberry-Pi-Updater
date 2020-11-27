@@ -1,4 +1,4 @@
-## Welcome to the site for `Raspberry Pi Updater` by The MOW Empire
+## Welcome to the site for "Raspberry Pi Updater" by The MOW Empire
 
 You can use the [editor on GitHub](https://github.com/The-MOW-Empire/Raspberry-Pi-Updater/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
