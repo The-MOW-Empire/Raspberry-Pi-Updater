@@ -1,0 +1,8 @@
+[Desktop Entry]
+Comment=
+Terminal=true
+Name=update
+Exec=/home/pi/.update.sh
+Type=Application
+Icon=gnome-panel-launcher
+NoDisplay=true
